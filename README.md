@@ -1,7 +1,7 @@
 
 # Template de Landing Page para Portfólio
 
-Bem-vindo ao **Template de Landing Page para Portfólio**, um projeto gratuito que desenvolvi para ajudar freelancers, desenvolvedores e designers a criarem portfólios profissionais e impactantes. Este template é uma solução fácil de implementar e pode ser utilizada tanto para seu próprio portfólio quanto para vender como um serviço para seus clientes.
+**Template de Landing Page para Portfólio**, projeto gratuito para freelancers, desenvolvedores e designers a criarem portfólios profissionais e impactantes. 
 
 ## 🖥️ Demonstração
 
@@ -52,32 +52,6 @@ Você pode personalizar todas as seções do template:
 
 Não é necessário instalar nada além de um editor de texto e um navegador para testar. Você pode modificar o conteúdo diretamente nos arquivos HTML e CSS.
 
-## 🛠 Melhorias Futuras
-
-Planejo melhorar e atualizar o template com novos recursos e seções. Algumas das ideias para futuras versões incluem:
-- Adição de mais layouts e estilos.
-- Integração com formulários dinâmicos (com EmailJS ou Formspree).
-- Suporte a múltiplos temas (dark mode).
-
-## 👨‍🏫 Sobre Mim
-
-Eu sou **Ricardo Moura**, desenvolvedor web freelancer e criador de conteúdo focado em programação e tecnologia. Meu objetivo é ajudar outros desenvolvedores a terem sucesso no mercado de trabalho freelancer, oferecendo dicas, estratégias e templates como este.
-
-Se você gostou deste projeto ou deseja aprender mais sobre como melhorar seus projetos, siga-me nas minhas redes sociais para mais conteúdos:
-
-- **Instagram:** [@riicardomoura](https://www.instagram.com/riicardomoura/)
-- **LinkedIn:** [Ricardo Moura](https://www.linkedin.com/in/ricardomouradev/)
-- **Meus Links:** [RM│Dev.](https://rmdeveloper.com.br/meus-links)
-
-## 🎁 Como Contribuir
-
-Se você tem sugestões de melhorias ou encontrou algum bug, fique à vontade para contribuir com o projeto. Basta abrir uma issue ou fazer um pull request.
-
----
-
-Espero que este template ajude você a criar um portfólio incrível e a se destacar no mercado. Se precisar de ajuda, estarei por aqui!
-
-Se você utilizar o template e postar no Instagram ou outra rede social, me marque! Ficarei feliz em reagir à sua postagem.
 
 ### Licença
 
